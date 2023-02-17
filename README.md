@@ -1,0 +1,1 @@
+# Katalon-Visual-Regression
